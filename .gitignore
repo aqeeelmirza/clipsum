@@ -1,0 +1,40 @@
+# Checkpoints
+checkpoints/
+lightning_logs/
+*.ckpt
+
+# Features (too large)
+features/
+extracted_features/
+
+# Data
+data/
+dataset/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.so
+
+# Results output files (keep metrics, exclude predictions)
+results/**/*.txt
+
+# Environment
+.env
+*.env
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Evaluation outputs
+evaluation/
+evaluation1/
+supplementary/
