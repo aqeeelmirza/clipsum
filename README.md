@@ -149,10 +149,10 @@ bash scripts/test_all_models.sh
 ## Citation
 
 ```bibtex
-@inproceedings{nazir2026clipsum,
+@article{nazir2026multimodal,
   title={Multimodal Abstractive Summarization of Instructional Videos with Vision-Language Models},
-  author={Nazir, Maham and Zhang, Richong and Aqeel, Muhammad and Setti, Francesco},
-  booktitle={Proceedings of the International Conference on Pattern Recognition (ICPR)},
+  author={Nazir, Maham and Aqeel, Muhammad and Zhang, Richong and Setti, Francesco},
+  journal={arXiv preprint arXiv:2605.11959},
   year={2026}
 }
 ```
